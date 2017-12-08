@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="newKaow.selectStepTest"
+    errors="0" failures="1" hostname="" id="" package="newKaow" skipped="0"
+    tests="1" time="9.195" timestamp="Thu, 07 Dec 2017 03:21:19 GMT">
+  
+    <testcase name="selectStep" classname="newKaow.selectStepTest" time="9.195" assertions="1">  <failure message="Timed out while waiting for element &lt;.select-step-dialog&gt; to be present for 5000 milliseconds.">    at Object.selectStep (E:\autoTest\tests\newKaow\selectStepTest.js:15:13)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

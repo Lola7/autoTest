@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="demo"
+    errors="0" failures="0" hostname="" id="" package="demo" skipped="1"
+    tests="1" time="0.000" timestamp="Tue, 28 Nov 2017 01:28:01 GMT">
+  
+
+  
+
+  
+    
+    <testcase
+      name="Find the answer." classname="demo">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

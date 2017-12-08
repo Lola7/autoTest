@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="autoTest"
+    errors="0" failures="1" hostname="" id="" package="autoTest" skipped="0"
+    tests="1" time="10.37" timestamp="Mon, 27 Nov 2017 07:59:41 GMT">
+  
+    <testcase name="unit testing" classname="autoTest" time="10.37" assertions="1">  <failure message="Timed out while waiting for element &lt;#testid&gt; to be present for 5000 milliseconds.">    at Object.unit testing (E:\autoTest\tests\autoTest.js:5:8)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

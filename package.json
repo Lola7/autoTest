@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "nightwatch": "^0.9.16",
+    "selenium-standalone": "^6.9.0"
+  },
+  "scripts": {
+    "start": "node ./startup.js --group newKaow -e default",
+    "selenium-setup": "node ./build/selenium-setup.js",
+    "selenium-start": "node ./build/selenium-start.js"
+  }
+}
